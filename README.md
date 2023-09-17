@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/gist/shallyyy/af547b0a86c3c2d26f496dd9b7620ec5/raw/b431d51b6da2bb5ae13daee5424b08746076f3fb/aaa.jpeg)](zeusenpai)
 <h1 align="center">Hi 👋, I'm Abhiram VS (zeusenpai)</h1>
 <h3 align="center">A passionate beginner developer</h3>
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **abhiramvs81@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny (I'm cringe actly)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeusenpai&show_icons=true&locale=en&layout=compact" alt="zeusenpai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeusenpai&show_icons=true&locale=en" alt="zeusenpai" /></p>
+
